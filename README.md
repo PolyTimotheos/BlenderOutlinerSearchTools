@@ -7,6 +7,9 @@ Select Button + Shift = add to current selection
 Select Button + Alt = remove from current selection
 
 In the Filter dropdown holding Shift and clicking one of the Button will activate it and deactivate all the others.
+
+It's only tested on Blender 4.52 so far.
+
 That's it! Hope you find it useful :)
 
 <img width="648" height="525" alt="image" src="https://github.com/user-attachments/assets/f4dc54d0-c755-466d-a6a6-479f9e7add7f" />
