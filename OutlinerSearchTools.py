@@ -1,6 +1,6 @@
 bl_info = {
     "name": "Outliner Search Tools",
-    "author": "Your Name",
+    "author": "PolyTimotheos",
     "version": (1, 2, 0),
     "blender": (4, 5, 0),
     "location": "Outliner > Header",
